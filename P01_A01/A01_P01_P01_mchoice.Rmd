@@ -1,0 +1,44 @@
+Question
+========
+¿Cuáles de las siguientes afirmaciones describen adecuadamente una doxa?
+
+
+Answerlist
+-----------
+* Lo normal siempre es lo correcto; así se ha hecho y así debe seguir.
+
+* Si la mayoría lo cree, entonces debe ser verdad.
+
+* Repito lo que oigo sin revisarlo porque ‘siempre ha funcionado’.
+
+* Prefiero no cuestionar: así evito problemas.
+
+* Contrasto fuentes y formulo preguntas antes de aceptar una idea.
+
+* Busco razones y evidencias para sostener una postura.
+
+* Reviso si mis creencias se sostienen en distintos contextos.
+
+* Distingo entre lo que opino y lo que puedo justificar.
+
+
+Solution
+========
+Las opciones que consideran creencias asumidas sin examen crítico.
+
+**Recuerda**: La doxa remite a opiniones comunes no cuestionadas; el propósito es comenzar a detectarlas en lo cotidiano para poder problematizarlas.
+
+Meta-information
+=================
+exname: PFyH1-P01-Q01
+extype: mchoice
+exsolution: 11110000
+exshuffle: 4
+purpose_id: PFyH1-P01
+difficulty: 2
+cognitive: Aplicación
+time_sec: 90
+tags: PFyH1,filosofía,doxa
+author: LMB
+version: 2025-08-31
+

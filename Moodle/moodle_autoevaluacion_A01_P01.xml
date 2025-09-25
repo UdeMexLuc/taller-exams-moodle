@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/moodle_autoevaluacion_A01_P01/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R1 Q1 : A01_P01_P01_mchoice </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>¿Cuáles de las siguientes afirmaciones describen adecuadamente una doxa?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Las opciones que consideran creencias asumidas sin examen crítico.</p>
+<p><strong>Recuerda</strong>: La doxa remite a opiniones comunes no cuestionadas; el propósito es comenzar a detectarlas en lo cotidiano para poder problematizarlas.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-50" format="html">
+<text><![CDATA[<p>
+Contrasto fuentes y formulo preguntas antes de aceptar una idea.
+</p>]]></text>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+Prefiero no cuestionar: así evito problemas.
+</p>]]></text>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+Repito lo que oigo sin revisarlo porque ‘siempre ha funcionado’.
+</p>]]></text>
+</answer>
+<answer fraction="-50" format="html">
+<text><![CDATA[<p>
+Busco razones y evidencias para sostener una postura.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R2 Q1 : A01_P01_P01_mchoice </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>¿Cuáles de las siguientes afirmaciones describen adecuadamente una doxa?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Las opciones que consideran creencias asumidas sin examen crítico.</p>
+<p><strong>Recuerda</strong>: La doxa remite a opiniones comunes no cuestionadas; el propósito es comenzar a detectarlas en lo cotidiano para poder problematizarlas.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-50" format="html">
+<text><![CDATA[<p>
+Busco razones y evidencias para sostener una postura.
+</p>]]></text>
+</answer>
+<answer fraction="-50" format="html">
+<text><![CDATA[<p>
+Reviso si mis creencias se sostienen en distintos contextos.
+</p>]]></text>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+Repito lo que oigo sin revisarlo porque ‘siempre ha funcionado’.
+</p>]]></text>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+Lo normal siempre es lo correcto; así se ha hecho y así debe seguir.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/moodle_autoevaluacion_A01_P01/Exercise 2</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R1 Q2 : A01_P01_P02_mchoice </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Selecciona todas las opciones correctas de acuerdo con el siguiente caso:
+“En Posit Cloud solo se puede hacer escritos tipo Word.”</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La afirmación inicial es falsa. Posit Cloud (anteriormente RStudio Cloud) es una plataforma en línea diseñada para trabajar principalmente con R y Python, permitiendo escribir código, realizar análisis de datos, crear visualizaciones, generar reportes dinámicos y colaborar en proyectos. No es un simple editor de texto ni está limitado a documentos tipo Word. Es importante reconocer las capacidades reales de las herramientas que usas para aprovecharlas al máximo en tu aprendizaje.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+Falso, en Posit Cloud también se pueden crear y ejecutar scripts de R y Python.
+</p>]]></text>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+Falso, en Posit Cloud se pueden generar reportes dinámicos como R Markdown o cuadernos Jupyter.
+</p>]]></text>
+</answer>
+<answer fraction="-50" format="html">
+<text><![CDATA[<p>
+Verdadero, no se puede ejecutar código en Posit Cloud.
+</p>]]></text>
+</answer>
+<answer fraction="-50" format="html">
+<text><![CDATA[<p>
+Verdadero, Posit Cloud no permite trabajar con datos ni gráficos.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R2 Q2 : A01_P01_P02_mchoice </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Selecciona todas las opciones correctas de acuerdo con el siguiente caso:
+“En Posit Cloud solo se puede hacer escritos tipo Word.”</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La afirmación inicial es falsa. Posit Cloud (anteriormente RStudio Cloud) es una plataforma en línea diseñada para trabajar principalmente con R y Python, permitiendo escribir código, realizar análisis de datos, crear visualizaciones, generar reportes dinámicos y colaborar en proyectos. No es un simple editor de texto ni está limitado a documentos tipo Word. Es importante reconocer las capacidades reales de las herramientas que usas para aprovecharlas al máximo en tu aprendizaje.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+Falso, en Posit Cloud se pueden generar reportes dinámicos como R Markdown o cuadernos Jupyter.
+</p>]]></text>
+</answer>
+<answer fraction="-50" format="html">
+<text><![CDATA[<p>
+Verdadero, Posit Cloud es un procesador de texto básico en línea.
+</p>]]></text>
+</answer>
+<answer fraction="-50" format="html">
+<text><![CDATA[<p>
+Verdadero, Posit Cloud solo permite documentos de texto como Word.
+</p>]]></text>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+Falso, Posit Cloud es una plataforma pensada principalmente para la ciencia de datos, no solo para textos.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

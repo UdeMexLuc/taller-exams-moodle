@@ -1,0 +1,36 @@
+Question
+========
+Selecciona todas las opciones correctas de acuerdo con el siguiente caso:
+"En Posit Cloud solo se puede hacer escritos tipo Word."
+
+
+Answerlist
+----------
+* Falso, en Posit Cloud también se pueden crear y ejecutar scripts de R y Python.
+
+* Falso, Posit Cloud permite trabajar con análisis de datos, visualizaciones y modelos estadísticos.
+
+* Falso, Posit Cloud es una plataforma pensada principalmente para la ciencia de datos, no solo para textos.
+
+* Falso, en Posit Cloud se pueden generar reportes dinámicos como R Markdown o cuadernos Jupyter.
+
+* Verdadero, Posit Cloud solo permite documentos de texto como Word.
+
+* Verdadero, no se puede ejecutar código en Posit Cloud.
+
+* Verdadero, Posit Cloud no permite trabajar con datos ni gráficos.
+
+* Verdadero, Posit Cloud es un procesador de texto básico en línea.
+
+
+Solution
+========
+La afirmación inicial es falsa. Posit Cloud (anteriormente RStudio Cloud) es una plataforma en línea diseñada para trabajar principalmente con R y Python, permitiendo escribir código, realizar análisis de datos, crear visualizaciones, generar reportes dinámicos y colaborar en proyectos. No es un simple editor de texto ni está limitado a documentos tipo Word. Es importante reconocer las capacidades reales de las herramientas que usas para aprovecharlas al máximo en tu aprendizaje.
+
+
+
+Meta-information
+================
+extype: mchoice
+exsolution: 11110000
+exshuffle: 4
